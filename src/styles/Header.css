@@ -15,16 +15,20 @@ html {
     margin-left: 10px;
 }
 
-#siteSubHeader {
-    display: inline-block;
-}
 
 #siteHeader {
     color: cornflowerblue;
     font-size: xx-large;
 }
 
-#isidoreImage {}
+.headerBio {
+    display: block;
+}
+#siteSubHeader {
+    display: block;
+    font-size:x-large;
+   
+}
 
 #headerBio {
     display: inline;
