@@ -14,5 +14,6 @@
 ## Questions
 
 ## References
-
-[St.IsidoresImage](https://en.wikipedia.org/wiki/Isidore_of_Seville#/media/File:Isidor_von_Sevilla.jpeg) 
+[Info-On-St.Isidore](https://en.wikipedia.org/wiki/Isidore_of_Seville)
+[More-St.Isidore-Info](https://www.christianiconography.info/isidoreSeville.html)
+[St.Isidores-Image](https://en.wikipedia.org/wiki/Isidore_of_Seville#/media/File:Isidor_von_Sevilla.jpeg) 
