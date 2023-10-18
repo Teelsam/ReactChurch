@@ -1,0 +1,33 @@
+/*Header Styles*/
+html {
+    background-color: rosybrown;
+}
+
+.header {
+    display: flex;
+    background-color: blanchedalmond;
+    border-radius: 15px;
+}
+
+#siteHeader {
+    display: contents;
+    width: 100px;
+    margin-left: 10px;
+}
+
+#siteSubHeader {
+    display: inline-block;
+}
+
+#siteHeader {
+    color: cornflowerblue;
+    font-size: xx-large;
+}
+
+#isidoreImage {}
+
+#headerBio {
+    display: inline;
+    padding-top: 50px;
+    font-family: Arial, Helvetica, sans-serif;
+}
